@@ -25,6 +25,11 @@
 				<p class="list-group-item-text">Local: IEPEM</p>
 				<p class="list-group-item-text">Data: Sábado - 29/08</p>
 				<p class="list-group-item-text">Horário: 18h00</p>
+			</a> <br> <a href="#" class="list-group-item active">
+				<h4 class="list-group-item-heading">Curso Bíblico</h4>
+				<p class="list-group-item-text">Local: IEPEM</p>
+				<p class="list-group-item-text">Data: Quarta - 26/08</p>
+				<p class="list-group-item-text">Horário: 20h00</p>
 			</a> <br>
 		</div>
 	</div>
