@@ -6,7 +6,7 @@
 	<div class="panel-body">
 		<div class="list-group">
 <a href="#" class="list-group-item active">
-			<h4 class="list-group-item-heading">Lnaçamento do filme "Você Acredita?"</h4>
+			<h4 class="list-group-item-heading">Lançamento do filme "Você Acredita?"</h4>
 				<p class="list-group-item-text">Data: Sábado - 05/09</p>
 			</a> <br> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Aniversário da Igreja de São José dos Campos</h4>
