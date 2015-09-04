@@ -10,7 +10,7 @@
 				<p class="list-group-item-text">Data: Sábado - 05/09</p>
 			</a> <br> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Aniversário da Igreja de São José dos Campos</h4>
-				<p class="list-group-item-text">Local: Igreja São José dos Campos</p>
+				<p class="list-group-item-text">Local: Rua Marechal Floriano Peixoto, 570 - Centro - São José dos Campos - CEP: 12210-030</p>
 				<p class="list-group-item-text">Data: Sábado - 12/09</p>
 			</a> <br> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Ensaio do Teatro</h4>
