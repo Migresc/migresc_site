@@ -15,7 +15,7 @@
 		<ul class="list-group">
 		  <li class="list-group-item">Bilhete Único: R$10.50</li>
 		  <li class="list-group-item">Dinheiro: R$14.00</li>
-		  <li class="list-group-item">Estacionamento (caso algum irmão for de carro): O valor no local varia entre R$18.00 e R$30.00/li>
+		  <li class="list-group-item">Estacionamento (caso algum irmão for de carro): O valor no local varia entre R$18.00 e R$30.00</li>
 		</ul>
 		<p>
 		Leve dinheiro, pois é proibido levar comida. Há lugar para comer lá, mas deve ser caro.
