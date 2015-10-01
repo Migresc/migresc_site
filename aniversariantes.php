@@ -35,7 +35,7 @@
 			            return new Date(e1.data).getDate() - new Date(e2.data).getDate();
 		            });
 		            $.each(lista,function(i,membro){		    			
-		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + new Date(membro.data).getDate() + "</td></tr>";
+		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + (new Date(membro.data).getDate() + 1) + "</td></tr>";
 			    		$(linha).appendTo("#tableBodyCasamento");
 		    		});
 		      }				
