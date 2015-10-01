@@ -1,5 +1,14 @@
 ﻿<?php include 'header.html';?>
-<H1>Para navegar, bastar pressionar em algum link no menu superior acima!</H1>
-<!--#echo var="DATE_LOCAL" -->
+<div class="alert alert-info" role="alert">
+		<strong>
+			Não deixe de conferir o nosso próximo grande evento: 
+		</strong>
+		<a href="./pcsp.php" class="alert-link">
+			PCSP - OSESP <br>
+			Mais detalhes
+		</a>
+		
+		
+</div>
 </body>
 </html>
