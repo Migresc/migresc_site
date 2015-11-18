@@ -15,5 +15,4 @@
 	</div>
 	<div class="panel-footer">Se algum irmão desejar receber uma visita, basta conversar com os pastores ou suas esposas.</div>
 </div>
-</body>
-</html>
+<?php include 'footer.html';?>

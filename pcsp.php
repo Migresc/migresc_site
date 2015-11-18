@@ -99,5 +99,4 @@
 	<div>
 	<div class="panel-footer">Paz e graça a todos. A liderança de jovens.</div>
 </div>
-</body>
-</html>
+<?php include 'footer.html';?>
