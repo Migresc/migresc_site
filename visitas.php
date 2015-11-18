@@ -4,7 +4,7 @@
 		<h3 class="panel-title">Visitas</h3>
 	</div>
 	<div class="panel-body">
-		<h3>Irmãos, estamos realizando visitas! Os seguintes irmãos foram visitados recentemente:</h3>
+		<h3>Estamos realizando visitas! Os seguintes irmãos foram visitados recentemente:</h3>
 		<br>
 		<div class="list-group">
 		  <button type="button" class="list-group-item">Israel e Rita</button>

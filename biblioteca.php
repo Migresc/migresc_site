@@ -3,10 +3,10 @@
 	<div class="panel-heading">
 		<h3 class="panel-title">Biblioteca</h3>
 	</div>
-	<br> <h3>Irmãos, abaixo segue a lista de livros disponíveis na igreja. Para solicitar um livro, bastar falar com um dos responsáveis: Celso, Flávio e Gabriela</h3> <br>
-	
-	<h3 class="panel-title">Série Cultura Bíblica</h3>
 	<div class="panel-body">
+	<h3>Irmãos, abaixo segue a lista de livros disponíveis na igreja. Para solicitar um livro, bastar falar com um dos responsáveis: Celso, Flávio e Gabriela</h3>
+	
+	<h3 class="panel-title">Série Cultura Bíblica</h3><br>
 		<ul class="list-group">
 			<li class="list-group-item"><span class="badge">1</span> À beira do apocalipse </li>
 			<li class="list-group-item"><span class="badge">1</span> Adolescência Feliz! </li>
@@ -61,7 +61,7 @@
 			<li class="list-group-item"><span class="badge">1</span> Visões e Ilusões Políticas </li>
 			<li class="list-group-item"><span class="badge">1</span> Volta ao mundo em 80 dias </li>
 		</ul>
-		<h3 class="panel-title">Série Cultura Bíblica</h3>
+	<h3 class="panel-title">Série Cultura Bíblica</h3><br>
 		<ul class="list-group">
 			<li class="list-group-item"><span class="badge">1</span>Gênesis</li>
 			<li class="list-group-item"><span class="badge">1</span>Êxodo</li>
@@ -75,7 +75,7 @@
 			<li class="list-group-item"><span class="badge">1</span>Efésios</li>
 			<li class="list-group-item"><span class="badge">1</span>Apocalipse</li>
 		</ul>
-		<h3 class="panel-title">Série Deixados para Trás</h3>
+	<h3 class="panel-title">Série Deixados para Trás</h3><br>
 		<ul class="list-group">
 			<li class="list-group-item"><span class="badge">1</span>Deixados para trás (vol 1)</li>
 			<li class="list-group-item"><span class="badge">1</span>Comando Tribulação (vol 2)</li>
