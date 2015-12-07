@@ -4,18 +4,7 @@
 		<h3 class="panel-title">Eventos</h3>
 	</div>
 	<div class="panel-body">
-		<div class="list-group">			
-			<br> <a href="#" class="list-group-item-active">
-				<h4 class="list-group-item-heading">Jantar Romântico 2</h4>
-				<p class="list-group-item-text">Local: IEPEM</p>
-				<p class="list-group-item-text">Data: Sábado - 28/11</p>
-				<p class="list-group-item-text">Horário: 18h00</p>
-			</a> <br> 
-			<br> <a href="#" class="list-group-item-active">
-				<h4 class="list-group-item-heading">Ensaio do Teatro e do Coral</h4>
-				<p class="list-group-item-text">Local: IEPEM</p>
-				<p class="list-group-item-text">Data: Sábado - 05/12</p>
-			</a> <br> 
+		<div class="list-group">
 			<br> <a href="#" class="list-group-item-active">
 				<h4 class="list-group-item-heading">Ensaio do Teatro e do Coral</h4>
 				<p class="list-group-item-text">Local: IEPEM</p>
