@@ -1,1 +1,4 @@
 *.jpeg
+*.jpg
+*.xml
+.idea/migresc.iml
