@@ -6,9 +6,9 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<br> <a href="#" class="list-group-item-active">
-			<h4 class="list-group-item-heading">Culto de Jovens</h4>
+			<h4 class="list-group-item-heading">Reunião do Calendário</h4>
 			<p class="list-group-item-text">Local: IEPEM</p>
-			<p class="list-group-item-text">Data: Sábado - 09/01</p>
+			<p class="list-group-item-text">Data: Sábado 13/02 - 18h00</p>
 		</a> <br>
 		</div>
 	</div>
