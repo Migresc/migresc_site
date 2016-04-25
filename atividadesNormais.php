@@ -6,7 +6,7 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<a href="#" class="list-group-item active">
-				<h4 class="list-group-item-heading">Quarta-Feira</h4>
+				<h4 class="list-group-item-heading">Terça-Feira</h4>
 				<p class="list-group-item-text">Curso Bíblico às 20:00 horas</p>
 			</a> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Sexta-Feira</h4>
@@ -19,7 +19,7 @@
 			</a> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Domingo</h4>
 				<p class="list-group-item-text">Escola Bíblica Dominical às 10:00 horas</p>
-				<p class="list-group-item-text">Culto de louvor e adoração às 19:00 horas</p>
+				<p class="list-group-item-text">Culto de louvor e adoração às 18:00 horas</p>
 			</a>
 		</div>
 	</div>
