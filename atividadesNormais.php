@@ -14,7 +14,7 @@
 				<p class="list-group-item-text">Culto de oração às 19:30 horas</p>
 			</a> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Sábado</h4>
-				<p class="list-group-item-text">Ensino de música a partir das 14:00 horas</p>
+				<p class="list-group-item-text">Ensino de música a partir das 13:00 horas</p>
 				<p class="list-group-item-text">Culto de jovens às 18:00 horas</p>
 			</a> <a href="#" class="list-group-item active">
 				<h4 class="list-group-item-heading">Domingo</h4>
