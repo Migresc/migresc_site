@@ -4,7 +4,7 @@
         <h3 class="panel-title">Seja bem vindo!</h3>
     </div>
     <div class="panel-body">
-        <h3>Já deu uma olhada nas <a href="./escalaGeral.php"> escala de funções</a> do mês de Julho?</h3>
+        <h3>Já deu uma olhada na <a href="./escalaGeral.php"> escala de funções</a> do mês de Julho?</h3>
     </div>
 </div>
 <?php include 'footer.html';?>
