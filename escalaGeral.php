@@ -9,85 +9,70 @@
         <!-- Table -->
             <table class="table">
                 <thead>
-                    <th>DATA</th>
-                    <th>PORTAS</th>
-                    <th>RECEPÇÃO</th>
-                    <th>LOUVOR INFANTIL EBD</th>
-                    <th>VERSÍCULO DO MÊS - CLASSE</th>
-                    <th>ABERTURA EBD</th>
-                    <th>LOUSA/PINCEL ETC</th>
-                    <th>LANCHE JD. LAPENA</th>
-                    <th>MONITOR JD. MARILÚ</th>
-                    <th>COZINHA</th>
-                    <th>LANCHE SERVIDO</th>
+                <th>DATA</th>
+                <th>PORTAS</th>
+                <th>RECEPÇÃO</th>
+                <th>LOUVOR INFANTIL EBD</th>
+                <th>VERSÍCULO DO MÊS - CLASSE</th>
+                <th>ABERTURA EBD</th>
+                <th>LOUSA/PINCEL ETC</th>
+                <th>LANCHE JD. LAPENA</th>
+                <th>MONITOR JD. MARILÚ</th>
+                <th>COZINHA</th>
+                <th>LANCHE SERVIDO</th>
                 </thead>
-                <tbody>
                 <tr>
-                    <td>03/07/2016</td>
-                    <td>Rebeca Hilary</td>
-                    <td>Dulcinéia</td>
-                    <td>Gabriela Al., Danielle e Guilherme</td>
-                    <td>Pré-Adolescentes</td>
-                    <td>Manassés</td>
-                    <td>Kailaine</td>
-                    <td>Francisco</td>
-                    <td>Felipe B.</td>
-                    <td>José Antônio / Cleonice e Cristian</td>
+                    <td>07/08/2016</td>
+                    <td>Matheus Américo</td>
+                    <td>Felipe Almeida</td>
+                    <td>Luiza, Danielle e Celso</td>
+                    <td>Jovens</td>
+                    <td>Moisés</td>
+                    <td>Yasmin</td>
+                    <td>Celso</td>
+                    <td>Felipe Paiva</td>
+                    <td>Lindália, Cleonice e Ana Luiza</td>
                     <td>Mortadela</td>
                 </tr>
                 <tr>
-                    <td>10/07/2016</td>
-                    <td>Matheus Américo</td>
-                    <td>Lídia</td>
-                    <td>Luiza, Danielle e Celso</td>
-                    <td>Pré-Adolescentes</td>
-                    <td>Emerson</td>
-                    <td>Yasmin</td>
+                    <td>14/08/2016</td>
+                    <td>Rebeca Hilary</td>
                     <td>Altemir</td>
-                    <td>Fernando</td>
-                    <td>Neusa / Eva e Rose</td>
+                    <td>Gabriela Al., Daniele e Guilherme</td>
+                    <td>Jovens</td>
+                    <td>Emerson</td>
+                    <td>Kailaine</td>
+                    <td>Débora Crist.</td>
+                    <td>José Antônio</td>
+                    <td>Neuza, Eva e Rose</td>
                     <td>Salsicha</td>
                 </tr>
                 <tr>
-                    <td>17/07/2016</td>
-                    <td>Rebeca Hilary</td>
-                    <td>Felipe Al.</td>
-                    <td>Gabriela Al., Danielle e Guilherme</td>
-                    <td>Pré-Adolescentes</td>
+                    <td>21/08/2016</td>
+                    <td>Matheus Américo</td>
+                    <td>Rafaela</td>
+                    <td>Luiza, Danielle e Celso</td>
+                    <td>Jovens</td>
                     <td>Luciano</td>
                     <td>Victória Martha</td>
-                    <td>Débora Crist.</td>
-                    <td>José Antônio</td>
-                    <td>Rosana / Cleonice e Angelina</td>
-                    <td>Bolo</td>
+                    <td>Francisco</td>
+                    <td>Felipe B.</td>
+                    <td>Angelina, Ednéia e Eva</td>
+                    <td>Pão com queijo ou Manteiga</td>
                 </tr>
                 <tr>
-                    <td>24/07/2016</td>
-                    <td>Matheus Américo</td>
-                    <td>Altemir</td>
-                    <td>Luiza, Danielle e Celso</td>
-                    <td>Pré-Adolescentes</td>
-                    <td>Moisés</td>
-                    <td>Kailaine</td>
-                    <td>Gabriela Al.</td>
-                    <td>Guilherme</td>
-                    <td>José Antônio / Luiza e Ana Luiza</td>
-                    <td>Pão com Requeijão</td>
-                </tr>
-                <tr>
-                    <td>31/07/2016</td>
+                    <td>28/08/2016</td>
                     <td>Rebeca Hilary</td>
-                    <td>Rafaela</td>
-                    <td>Gabriela Al., Danielle e Guilherme</td>
-                    <td>Pré-Adolescentes</td>
+                    <td>Dulcinéia</td>
+                    <td>Gabriela Al., Daniele e Guilherme</td>
+                    <td>Jovens</td>
                     <td>Manassés</td>
                     <td>Yasmin</td>
-                    <td>Rodrigo</td>
                     <td>Altemir</td>
-                    <td>Neusa / Ednéia e Eva</td>
+                    <td>Fernando</td>
+                    <td>Cristian, Cleonice e José Antônio</td>
                     <td>Frango</td>
                 </tr>
-                </tbody>
             </table>
         </div>
     </div>
@@ -103,91 +88,70 @@
             <!-- Table -->
             <table class="table">
                 <thead>
-                    <th>DATA</th>
-                    <th>PORTARIA</th>
-                    <th>RECEPÇÃO</th>
-                    <th>MICROFONE VOLANTE</th>
-                    <th>PORTAS e JANELAS</th>
-                    <th>CORTINAS</th>
-                    <th>SOM </th>
-                    <th>DATA-SHOW</th>
-                    <th>FILMAGEM</th>
-                    <th>FOTOGRAFIA</th>
-                    <th>GRUPO DE LOUVOR</th>
-                    <th>RELATÓRIO DOS CULTOS</th>
+                <th>DATA</th>
+                <th>PORTARIA</th>
+                <th>RECEPÇÃO</th>
+                <th>MICROFONE VOLANTE</th>
+                <th>PORTAS e JANELAS</th>
+                <th>CORTINAS</th>
+                <th>SOM </th>
+                <th>DATA-SHOW</th>
+                <th>FILMAGEM</th>
+                <th>FOTOGRAFIA</th>
+                <th>GRUPO DE LOUVOR</th>
                 </thead>
-                <tbody>
                 <tr>
-                    <td>03/07/2016</td>
-                    <td>Gilvan</td>
-                    <td>Clarice e Kailaine</td>
+                    <td>07/08/2016</td>
+                    <td>Luciano</td>
+                    <td>Cleonice e Victória Martha</td>
                     <td>Gabriela Bezerra</td>
-                    <td>-----------</td>
-                    <td>Luiz Fernando</td>
+                    <td>Danielie Parra</td>
+                    <td>Isabella</td>
                     <td>Felipe B. e Éder</td>
                     <td>Lídia</td>
                     <td>Janderson</td>
-                    <td>Amanda Fern</td>
-                    <td>Pastores</td>
-                    <td>Emerson</td>
+                    <td>Victória Almeida</td>
+                    <td>Grupo Ágape</td>
                 </tr>
                 <tr>
-                    <td>10/07/2016</td>
-                    <td>Luciano</td>
-                    <td>Lídia e Danielle Parra</td>
+                    <td>14/08/2016</td>
+                    <td>Glaylton</td>
+                    <td>Danielle Parra e Eva</td>
                     <td>Kailaine</td>
                     <td>Luiz Fernando</td>
-                    <td>Isabella</td>
+                    <td>Vinícius</td>
                     <td>Éder e Rafael</td>
                     <td>Beatriz</td>
-                    <td>José Antônio</td>
+                    <td>Lídia</td>
                     <td>Victória Martha</td>
-                    <td>Grupo Ágape</td>
-                    <td>Janderson</td>
+                    <td>Jovens</td>
                 </tr>
                 <tr>
-                    <td>17/07/2016</td>
-                    <td>Francisco</td>
-                    <td>Ana Luiza e Beth</td>
+                    <td>21/08/2016</td>
+                    <td>Gilvan</td>
+                    <td>Kailaine e Lourdes</td>
                     <td>Letícia</td>
                     <td>Lídia</td>
-                    <td>Vinícius</td>
+                    <td>Yasmin</td>
                     <td>Rafael e Janderson</td>
                     <td>Gabriela Almeida</td>
                     <td>Felipe Paiva</td>
-                    <td>Lídia</td>
-                    <td>Jovens</td>
-                    <td>Israel</td>
-                </tr>
-                <tr>
-                    <td>24/07/2016</td>
-                    <td>José Antônio</td>
-                    <td>Amanda e Eva</td>
-                    <td>Matheus Souza</td>
-                    <td>Danielle Parra</td>
-                    <td>Victória  Martha</td>
-                    <td>Janderson e Bruno</td>
-                    <td>Matheus Américo</td>
-                    <td>Lídia</td>
                     <td>Isabella</td>
                     <td>Casados</td>
-                    <td>Luciano</td>
                 </tr>
                 <tr>
-                    <td>31/07/2016</td>
+                    <td>28/08/2016</td>
                     <td>Flávio</td>
-                    <td>Claudete e Angelina</td>
-                    <td>Isabella</td>
-                    <td>Luiz Fernando</td>
+                    <td>Letícia e Ana Luiza</td>
+                    <td>Victória Martha</td>
+                    <td>Danielle Parra</td>
                     <td>Gustavo</td>
-                    <td>Bruno e Felipe B.</td>
-                    <td>Letícia</td>
+                    <td>Janderson e Bruno</td>
+                    <td>Matheus Américo</td>
                     <td>José Antônio</td>
-                    <td>Victória Almeida</td>
+                    <td>Lídia</td>
                     <td>Pastores</td>
-                    <td>Emerson</td>
                 </tr>
-                </tbody>
             </table>
         </div>
     </div>
