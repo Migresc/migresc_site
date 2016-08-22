@@ -2,7 +2,7 @@
 <div class="panel panel-info">
     <!-- Default panel contents -->
     <div class="panel-heading">
-        <h3 class="panel-title">Julho/2016 - Manhã</h3>
+        <h3 class="panel-title">Agosto/2016 - Manhã</h3>
     </div>
     <div class="panel-body">
         <div class="table-responsive">
@@ -80,7 +80,7 @@
 </p>
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Julho/2016 - Noite</h3>
+        <h3 class="panel-title">Agosto/2016 - Noite</h3>
     </div>
 
     <div class="panel-body">
