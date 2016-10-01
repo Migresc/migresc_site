@@ -1,7 +1,7 @@
 <?php include 'header.html';?>
 <script type="text/javascript">
 	$(document).ready(function() {
-		
+
 		$.ajax({
 		      url: 'aniversariantes.json',
 		      dataType: "json",
@@ -9,16 +9,16 @@
 		    	    var lista = undefined;
 		            lista = data.membro;
 		            lista = lista.filter(function(e){
-						return new Date(e.dtNascimento).getMonth() == new Date().getMonth(); 
+						return new Date(e.dtNascimento).getUTCMonth() == new Date().getUTCMonth();
 		            });
 		            lista.sort(function (e1,e2){
-			            return new Date(e1.dtNascimento).getDate() - new Date(e2.dtNascimento).getDate();
+			            return new Date(e1.dtNascimento).getUTCDate() - new Date(e2.dtNascimento).getUTCDate();
 		            });
-		            $.each(lista,function(i,membro){		    			
-		    			var linha = "<tr><td>" + membro.nome + "</td><td>" + (new Date(membro.dtNascimento).getDate() + 1) + "</td></tr>";
+		            $.each(lista,function(i,membro){
+		    			var linha = "<tr><td>" + membro.nome + "</td><td>" + (new Date(membro.dtNascimento).getUTCDate()) + "</td></tr>";
 			    		$(linha).appendTo("#tableBodyNascimento");
 		    		});
-		      }				
+		      }
 			}
 		);
 
@@ -29,20 +29,20 @@
 		    	    var lista = undefined;
 		            lista = data.membro;
 		            lista = lista.filter(function(e){
-						return new Date(e.data).getMonth() == new Date().getMonth(); 
+						return new Date(e.data).getUTCMonth() == new Date().getMonth();
 		            });
 		            lista.sort(function (e1,e2){
-			            return new Date(e1.data).getDate() - new Date(e2.data).getDate();
+			            return new Date(e1.data).getUTCDate() - new Date(e2.data).getUTCDate();
 		            });
-		            $.each(lista,function(i,membro){		    			
-		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + (new Date(membro.data).getDate() + 1) + "</td></tr>";
+		            $.each(lista,function(i,membro){
+		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + (new Date(membro.data).getUTCDate() + 1) + "</td></tr>";
 			    		$(linha).appendTo("#tableBodyCasamento");
 		    		});
-		      }				
+		      }
 			}
 		);
-			
-		
+
+
 	});
 </script>
 <div class="panel panel-info">
@@ -56,7 +56,7 @@
 				<th>Data de Nascimento</th>
 			</thead>
 			<tbody id="tableBodyNascimento">
-			
+
 			</tbody>
 		</table>
 	</div>
@@ -73,7 +73,7 @@
 				<th>Data</th>
 			</thead>
 			<tbody id="tableBodyCasamento">
-			
+
 			</tbody>
 		</table>
 	</div>
