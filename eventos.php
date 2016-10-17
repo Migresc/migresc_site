@@ -5,7 +5,22 @@
 	</div>
 	<div class="panel-body">
 		<div class="list-group">
-			<br>
+		<br>
+			<h4 class="list-group-item-heading">Aniversário da IEP Sede</h4>
+			<p class="list-group-item-text">Local: IEP Sede</p>
+			<p class="list-group-item-text">Endereço: R. Mourato Coelho, 1139 - Pinheiros, São Paulo</p>
+			<p class="list-group-item-text">Data: Sábado 22/10 - 18h00</p>
+		<br>
+		</div>
+		<div class="list-group">
+		<br>
+			<h4 class="list-group-item-heading">24 horas de oração</h4>
+			<p class="list-group-item-text">Início: 28/10 às 17h</p>
+			<p class="list-group-item-text">Término: 29/10 às 17h com encerramento na igreja às 18h</p>
+		<br>
+		</div>
+		<div class="list-group">
+		<br>
 			<h4 class="list-group-item-heading">Culto de adoração com o tema: A Reforma Protestante e as Doutrinas Reformadas</h4>
 			<p class="list-group-item-text">Local: IEPEM</p>
 			<p class="list-group-item-text">Endereço: Rua Noel José da Silva, 192 - Vila São Francisco</p>
