@@ -5,7 +5,7 @@
     </div>
     <div class="panel-body">
         <h3 >
-            No próximo sábado teremos culto de adoração às 18h00. Não perca!
+            <a href='./24oracao.php'>Irmãos, segue a lista com os horários para as 24 horas de oração <span class="glyphicon glyphicon-download" /></a>
         </h3>
     </div>
 </div>
