@@ -35,7 +35,7 @@
 			            return new Date(e1.data).getUTCDate() - new Date(e2.data).getUTCDate();
 		            });
 		            $.each(lista,function(i,membro){
-		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + (new Date(membro.data).getUTCDate() + 1) + "</td></tr>";
+		    			var linha = "<tr><td>" + membro.casal + "</td><td>" + (new Date(membro.data).getUTCDate()) + "</td></tr>";
 			    		$(linha).appendTo("#tableBodyCasamento");
 		    		});
 		      }

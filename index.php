@@ -5,7 +5,7 @@
     </div>
     <div class="panel-body">
         <h3 >
-            <a href='./24oracao.php'>Irmãos, segue a lista com os horários para as 24 horas de oração <span class="glyphicon glyphicon-download" /></a>
+            Irmãos, nós temos um importante evento para acontecer, confiram!!! <a href='./arquivos/manha_com_Deus.mp3'>Áudio com o recado<span class="glyphicon glyphicon-download" /></a></p>
         </h3>
     </div>
 </div>
