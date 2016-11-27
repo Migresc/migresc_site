@@ -6,16 +6,14 @@
 	<div class="panel-body">
 		<div class="list-group">
 		<br>
-			<h4 class="list-group-item-heading">Passeio dos adolescentes</h4>
-			<p class="list-group-item-text">Saída: 06h00</p>
-			<p class="list-group-item-text">Volta prevista: 19h30</p>
-			<p class="list-group-item-text">Atenção: Não é permitido que os adolescentes levem os celulares!!!</p>
-			<p class="list-group-item-text"><a href='./passeio-jovens.pdf'>Mais informações<span class="glyphicon glyphicon-download" /></a></p>
+			<h4 class="list-group-item-heading">Almoço dos adolescentes</h4>
+			<p class="list-group-item-text">Local: IEPEM</p>
+			<p class="list-group-item-text">Data: 04/12 - Logo após a EBD</p>
 		<br>
-        <h4 class="list-group-item-heading">Chá de mulheres em São José dos Campos</h4>
-        <p class="list-group-item-text">Saída de carro da IEP: 13h30</p>
-        <p class="list-group-item-text">Valor: R$45,00</p>
-        <p class="list-group-item-text">As irmãs interessadas devem procurar a irmã Valéria até quarta feira pela manhã!</p>
+        <h4 class="list-group-item-heading">Amigo Secreto</h4>
+        <p class="list-group-item-text">Data: ???</p>
+        <p class="list-group-item-text">Valor Mínimo: ???</p>
+        <p class="list-group-item-text">Demais informações serão dadas ao longo do mês</p>
         <br>
 		</div>
 	</div>

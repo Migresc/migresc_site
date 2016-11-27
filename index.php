@@ -5,7 +5,7 @@
     </div>
     <div class="panel-body">
         <h3 >
-            Sábado será um dia cheio de eventos...Por que não dar uma olhadinha?</p>
+            Seja bem vindo!</p>
         </h3>
     </div>
 </div>
