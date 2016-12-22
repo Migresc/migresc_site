@@ -5,17 +5,12 @@
 	</div>
 	<div class="panel-body">
 		<div class="list-group">
-		<br>
-			<h4 class="list-group-item-heading">Culto de 31 de Dezembro</h4>
-			<p class="list-group-item-text">Batismos</p>
-			<p class="list-group-item-text">Assembléia</p>
-			<p class="list-group-item-text">Minuto Espiritual - Cada família deverá fazer uma apresentação (louvor, leitura da palavra, testemunho ou alguma palavra)</p>
-		<br>
-        <h4 class="list-group-item-heading">Amigo Secreto</h4>
-        <p class="list-group-item-text">Data: ???</p>
-        <p class="list-group-item-text">Valor Mínimo: ???</p>
-        <p class="list-group-item-text">Demais informações serão dadas ao longo do mês</p>
-        <br>
+			<br>
+				<h4 class="list-group-item-heading">Culto de 31 de Dezembro</h4>
+				<p class="list-group-item-text">Batismos</p>
+				<p class="list-group-item-text">Assembléia</p>
+				<p class="list-group-item-text">Minuto Espiritual - Cada família deverá fazer uma apresentação (louvor, leitura da palavra, testemunho ou alguma palavra)</p>
+			<br/>
 		</div>
 	</div>
 </div>
