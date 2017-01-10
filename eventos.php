@@ -6,10 +6,7 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<br>
-				<h4 class="list-group-item-heading">Culto de 31 de Dezembro</h4>
-				<p class="list-group-item-text">Batismos</p>
-				<p class="list-group-item-text">Assembléia</p>
-				<p class="list-group-item-text">Minuto Espiritual - Cada família deverá fazer uma apresentação (louvor, leitura da palavra, testemunho ou alguma palavra)</p>
+				<h4 class="list-group-item-heading">Não haverá eventos, nem cultos ao sábados, no mês de Janeiro!</h4>
 			<br/>
 		</div>
 	</div>
