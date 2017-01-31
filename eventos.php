@@ -6,8 +6,11 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<br>
-				<h4 class="list-group-item-heading">Não haverá eventos, nem cultos ao sábados, no mês de Janeiro!</h4>
-			<br/>
+					<h4 class="list-group-item-heading">Chá de Bebê da Fernanda</h4>
+					<p class="list-group-item-text">Onde? IEPEM</p>
+					<p class="list-group-item-text">Quando? 11 de Fevereiro</p>
+					<p class="list-group-item-text">Que horas? 15 horas</p>
+				<br/>
 		</div>
 	</div>
 </div>
