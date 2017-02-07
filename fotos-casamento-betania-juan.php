@@ -6,7 +6,7 @@
 </script>
 <div class="panel panel-info">
 	<div class="panel-heading">
-		<h3 class="panel-title">Fotos do casamento da Betânia e do Juan, primos do Pr. Celso e do irmão Manassés</h3>
+		<h3 class="panel-title">Fotos do casamento da Betania e do Juan, primos do Pr. Celso e do irmão Manassés</h3>
 	</div>
 	<div class="panel-body">
 		<div id="gallery">
