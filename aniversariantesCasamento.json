@@ -45,10 +45,6 @@
 		"data" : "2001-05-12"
 	},
 	{
-		"casal" : "Antonio Durante - Silvia Durante  ",
-		"data" : "1995-10-07"
-	},
-	{
 		"casal" : "Cláudio Alves de Oliveira - Valéria Cristina A. A. e Oliveira ",
 		"data" : "1986-07-12"
 	},
@@ -71,10 +67,6 @@
 	{
 		"casal" : "Gilvan Alves Santos - Ednéa França Santos",
 		"data" : "2002-03-09"
-	},
-	{
-		"nome" : "Tiago Rodrigues Tavares Camargo de Souza",
-		"dtNascimento" : "2014-02-28"
 	}
 ]
 }
