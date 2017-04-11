@@ -6,9 +6,9 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<br>
-					<h4 class="list-group-item-heading">Chá de Bebê da Fernanda</h4>
+					<h4 class="list-group-item-heading">Páscoa</h4>
 					<p class="list-group-item-text">Onde? IEPEM</p>
-					<p class="list-group-item-text">Quando? 11 de Fevereiro</p>
+					<p class="list-group-item-text">Quando? 14 de Abril</p>
 					<p class="list-group-item-text">Que horas? 15 horas</p>
 				<br/>
 		</div>
