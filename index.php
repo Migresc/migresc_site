@@ -10,4 +10,5 @@
         </h3>
     </div>
 </div>
+<?php include 'pegi.php';?>
 <?php include 'footer.html';?>
