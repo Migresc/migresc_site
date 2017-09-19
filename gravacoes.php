@@ -6,16 +6,28 @@
 	<div class="panel-body">
 		<div class="list-group">
 			<div class="row">
-		  <div class="col-sm-6 col-md-4">
-		    <div class="thumbnail">
-		      <div class="caption">
-		        <h3>Violência e o Cristão</h3>
-		        <p>Pregador: Celso de Carvalho</p>
-						<p>Data: 17/09/17</p>
-		        <p><a href="https://www.youtube.com/watch?v=yFGdNL-nsnQ#action=share" target="_blank" class="btn btn-primary" role="button">Assistir</a></p>
-		      </div>
-		    </div>
-		  </div>
+				<?php
+				 	$jsonFile = fopen("./gravacoes.json", "r") or die("Erro ao ler arquivo de gravacoes");
+					$json = fread($jsonFile, filesize("./gravacoes.json"));
+					$jsonIt = new RecursiveArrayIterator(
+							new RecursiveArrayIterator(json_decode($json, TRUE)),
+							RecursiveIteratorIterator::SELF_FIRST);
+					foreach($jsonIt as $key => $value){
+				?>
+			  <div class="col-sm-6 col-md-4">
+			    <div class="thumbnail">
+			      <div class="caption">
+			        <h3><?php echo($value['titulo']); ?></h3>
+			        <p>Pregador: <?php echo($value['pregador']); ?></p>
+							<p>Data: <?php echo($value['data']); ?></p>
+			        <p><a href="<?php echo($value['url']); ?>" target="_blank" class="btn btn-primary" role="button">Assistir</a></p>
+			      </div>
+			    </div>
+			  </div>
+				<?php
+					}
+					fclose($jsonFile);
+				 ?>
 		</div>
 		</div>
 	</div>
