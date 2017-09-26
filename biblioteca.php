@@ -1,11 +1,13 @@
 <?php include 'header.html';?>
+<?php include_once("analyticstracking.php") ?>
+
 <div class="panel panel-info">
 	<div class="panel-heading">
 		<h3 class="panel-title">Biblioteca</h3>
 	</div>
 	<div class="panel-body">
 	<h3>Irmãos, abaixo segue a lista de livros disponíveis na igreja. Para solicitar um livro, bastar falar com um dos responsáveis: Celso, Flávio e Gabriela</h3>
-	
+
 	<h3 class="panel-title">Série Cultura Bíblica</h3><br>
 		<ul class="list-group">
 			<li class="list-group-item"><span class="badge">1</span> À beira do apocalipse </li>
@@ -94,18 +96,3 @@
 	</div>
 </div>
 <?php include 'footer.html';?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

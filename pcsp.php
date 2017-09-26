@@ -1,4 +1,6 @@
 <?php include 'header.html';?>
+<?php include_once("analyticstracking.php") ?>
+
 <div class="panel panel-info">
 	<div class="panel-heading">
 		<h3 class="panel-title">PCSP</h3>
@@ -10,7 +12,7 @@
 		A liderança está convidando toda a igreja, no dia 21 de novembro ás 12:30, para assistir a uma apresentação do quarteto de solistas da OSESP na sala São Paulo.
 		O espetáculo começara ás 14:45, portanto, sairemos da igreja  ás 12:30. EM PONTO!
 		Chegaremos com 1 hora de antecedência para retirar os ingressos, como recomenda o site.
-		<p>	
+		<p>
 		Todos iremos de transporte publico (ver itinerário), então leve seu bilhete único ou dinheiro para o transporte:
 		<ul class="list-group">
 		  <li class="list-group-item">Bilhete Único: R$10.50</li>
@@ -19,15 +21,15 @@
 		</ul>
 		<p>
 		Leve dinheiro, pois é proibido levar comida. Há lugar para comer lá, mas deve ser caro.
-		Quanto ao traje; não vá de bermuda, shorts ou chinelos. 
+		Quanto ao traje; não vá de bermuda, shorts ou chinelos.
 		Também é proibido tirar fotos durante os espetáculos.
-		O preço das entradas é R$68 a inteira e R$34 a meia. Eu disse que era R$59, mas esse preço é só na bilheteria do local. 
+		O preço das entradas é R$68 a inteira e R$34 a meia. Eu disse que era R$59, mas esse preço é só na bilheteria do local.
 		Há idade mínima para entrar nos espetáculos é de sete anos de idade.
 		<p>
 		Quem se interessar deve:
 		<ol class="list-group">
 	    	<li class="list-group-item">Confirmar a presença com a liderança (Rafael e Eliane) ou Felipe Bernardo;</li>
-	    	<li class="list-group-item">Pagar com uma das seguintes formas:</li>	  
+	    	<li class="list-group-item">Pagar com uma das seguintes formas:</li>
 	  		<li class="list-group-item">Depositar o dinheiro na conta do irmão Felipe Bernardo<br>
 		  	<ul class="list-group">
 		  		<li class="list-group-item">Banco: Citibank</li>

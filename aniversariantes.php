@@ -1,4 +1,6 @@
 <?php include 'header.html';?>
+<?php include_once("analyticstracking.php") ?>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 

@@ -1,4 +1,6 @@
 <?php include 'header.html';?>
+<?php include_once("analyticstracking.php") ?>
+
 <div class="panel panel-info">
     <!-- Default panel contents -->
     <div class="panel-heading">
