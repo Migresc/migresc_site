@@ -1,8 +1,14 @@
 [
 	{
+		"titulo" : "O que é ser bem aventurado?",
+		"pregador": "Pastor Claudio Almeida Oliveira",
+		"data": "24/09/17",
+		"url": "https://www.youtube.com/watch?v=TldES6rBMF4"
+	},
+	{
 		"titulo": "Violência e o Cristão",
 		"pregador": "Celso de Carvalho",
 		"data": 	"17/09/17",
-		"url":		"https://www.youtube.com/watch?v=yFGdNL-nsnQ#action=share"
+		"url":		"https://www.youtube.com/watch?v=yFGdNL-nsnQ"
 	}
 ]

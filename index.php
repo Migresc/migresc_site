@@ -5,8 +5,8 @@
     </div>
     <div class="panel-body">
         <h3 >
-          ..."lhes pregamos a Cristo, poder de Deus, e sabedoria de Deus".<br>
-             1 Coríntios 1:24</p>
+          Que tal assistir as pregações que foram ministradas nos últimos domingos?
+          <a href="./gravacoes.php">Veja aqui! </a></p>
         </h3>
     </div>
 </div>
