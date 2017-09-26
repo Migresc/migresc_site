@@ -7,8 +7,11 @@
     </div>
     <div class="panel-body">
         <h3 >
-          Que tal assistir as pregações que foram ministradas nos últimos domingos?
-          <a href="./gravacoes.php">Veja aqui! </a></p>
+          <ul>
+            <li><a href='./24oracao.php'>24 horas de oração</a></li>
+            <li>Que tal assistir as pregações que foram ministradas nos últimos domingos?
+          <a href="./gravacoes.php">Veja aqui! </a></p></li>
+        </ul>
         </h3>
     </div>
 </div>
