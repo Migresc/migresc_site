@@ -94,7 +94,7 @@
 	 	 <td>Bolo de Cenoura</td>
  	 </tr>
    <tr>
-	 	 <td>15/10/17</td>
+	 	 <td>29/10/17</td>
 	 	 <td>Rebeca Hilary</td>
 	 	 <td></td>
 	 	 <td></td>
