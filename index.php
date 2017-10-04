@@ -6,14 +6,11 @@
         <h3 class="panel-title">Seja bem vindo!</h3>
     </div>
     <div class="panel-body">
-        <h3 >
-          <ul>
-            <li><a href='./24oracao.php'>24 horas de oração</a></li>
-            <li>Que tal assistir as pregações que foram ministradas nos últimos domingos?
-          <a href="./gravacoes.php">Veja aqui! </a></p></li>
-        </ul>
-        </h3>
+        Que tal assistir as nossas últimas pregações? Veja em <a href="./gravacoes.php">Gravações</a>
     </div>
 </div>
+<?php include 'noticias.php';?>
+<?php include 'atividadesNormais.php';?>
+<?php include 'eventos.php';?>
 <?php include 'pegi.php';?>
 <?php include 'footer.html';?>

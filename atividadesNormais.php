@@ -1,8 +1,6 @@
-<?php include 'header.html';?>
-<?php include_once("analyticstracking.php") ?>
 <div class="panel panel-info">
 	<div class="panel-heading">
-		<h3 class="panel-title">Atividades Normais</h3>
+		<h3 class="panel-title">Atividades Normais <a class="glyphicon glyphicon-calendar"></a></h3>
 	</div>
 	<div class="panel-body">
 		<div class="list-group">
@@ -24,4 +22,3 @@
 		</div>
 	</div>
 </div>
-<?php include 'footer.html';?>
