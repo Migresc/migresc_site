@@ -14,7 +14,7 @@
       <div class="modal-body">
         <p>Você sabe o que é o projeto PEGI?</p>
         <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/k6zCLs1_LnI" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7AAV5ZUC_U8" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="modal-footer">
