@@ -9,7 +9,7 @@
         Que tal assistir as nossas últimas pregações? Veja em <a href="./gravacoes.php">Gravações</a>
     </div>
 </div>
-<?php include 'pegi.php';?>;
+<?php include 'pegi.php';?>
 <?php include 'atividadesNormais.php';?>
 <?php include 'eventos.php';?>
 <?php include 'footer.html';?>
