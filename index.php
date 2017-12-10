@@ -6,7 +6,7 @@
         <h3 class="panel-title">Seja bem vindo!</h3>
     </div>
     <div class="panel-body">
-        Que tal assistir as nossas últimas pregações? Veja em <a href="./gravacoes.php">Gravações</a>
+        Vamos nos juntar em um grupo de estudo? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeyaK1O1V5msp6GmUdWBBT9elXRJ6Xqb626mskq--d-b9T-sw/viewform" target="_blank">Inscreva-se aqui!</a>
     </div>
 </div>
 <?php include 'pegi.php';?>
