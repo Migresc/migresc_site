@@ -6,7 +6,7 @@
         <h3 class="panel-title">Seja bem vindo!</h3>
     </div>
     <div class="panel-body">
-        Vamos nos juntar em um grupo de estudo? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeyaK1O1V5msp6GmUdWBBT9elXRJ6Xqb626mskq--d-b9T-sw/viewform" target="_blank">Inscreva-se aqui!</a>
+        Vamos nos juntar em um grupo de estudo? <a href="./grupo-estudo.php">Mais informações aqui!</a>
     </div>
 </div>
 
