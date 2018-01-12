@@ -13,7 +13,7 @@
 
 			<bold>Livro Base</bold></br>
 			<ul>
-				<li>Preparados - Greg L. Bahnsen - editora Monergismo </li>
+				<li>Sempre Preparados - Greg L. Bahnsen - editora Monergismo </li>
 			</ul>
 
 			<bold>Livros de apoio</bold> </br>
