@@ -6,7 +6,7 @@
         <h3 class="panel-title">Seja bem vindo!</h3>
     </div>
     <div class="panel-body">
-        Você sabe como a igreja e o cristão devem tratar o sexo antes do casamento? <a target="_blank" href="./arquivos/SexoEntraNaoCasados.pdf">Leia mais aqui!</a>
+        Lazer e diversão: é pecado ou não?  <a target="_blank" href="./arquivos/EPecadoOuNaoE.pdf">Leia mais aqui!</a>
     </div>
 </div>
 
