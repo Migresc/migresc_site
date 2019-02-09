@@ -27,7 +27,6 @@
         Venha você fazer parte da nossa comunidade! <a href="http://migresc.com.br/cadastro" target="_blank">Cadastre-se aqui!</a>
     </div>
 </div>
-<?php include 'pegi.php';?>
 <?php include 'atividadesNormais.php';?>
 <?php include 'eventos.php';?>
 <?php include 'footer.html';?>
